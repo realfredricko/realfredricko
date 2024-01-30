@@ -1,6 +1,7 @@
 ### Hi there 👋
+
 # 💫 About Me:
-(Fredrick Ochieng)I'm a User Experience Designer and an android developer , from Kenya<br>I'm currently learning Android Development<br>My goal is to be a Professional Android Developer<br>I love playing chess<br>
+(Fredrick Ochieng)I'm a User Experience Designer and an android developer , from Kenya<br>I'm currently learning Android Development<br>My goal is to be a Professional Android Developer
 
 
 ## 🌐 Socials:
