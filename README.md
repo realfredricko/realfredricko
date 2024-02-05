@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-# 💫 About Me:
-(Fredrick Ochieng)I'm a User Experience Designer and an android developer , from Kenya<br>I'm currently learning Android Development<br>My goal is to be a Professional Android Developer
+# About Me:
+I'm a User Experience Designer and an android developer , from Kenya<br>I'm currently learning Android Development<br>
+Goal >> Professional Android Developer
 
 
 ## 🌐 Socials:
